@@ -1,4 +1,3 @@
-Sonolus Wiki
-===
+# Sonolus Wiki
 
-See wiki section.
+ARCHIVED: USE https://wiki.sonolus.com
